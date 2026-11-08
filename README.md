@@ -4,6 +4,8 @@ Lish Daily Drop #1, by [Devlish](https://www.instagram.com/devlish_team/), a tea
 
 You have a rough brief, a client message or an idea, and you don't know where to start. This kit turns it into questions to ask, a task list, an estimate with a range, and a cut list. It uses a small team of subagents, so each step is done by a focused helper.
 
+> **Early version.** This kit was just released and is still being tested in real projects. If something does not work, please open an issue.
+
 ## What you get
 
 | Part | Role |
