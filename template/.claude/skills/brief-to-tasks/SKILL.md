@@ -33,6 +33,8 @@ When the plan is back, start these two in the same turn, each with the brief, th
 
 If `plan-skeptic` finds a missing task, add it to the plan and ask `estimator` for its range. Do not loop more than once.
 
+Keep the task count inside the limit of the size: Small 3 to 5, Medium 5 to 8, Large 6 to 8. When a task is added, merge it into an existing task if it fits, or merge two small tasks together, so the final list does not grow past the limit. If the work really needs more, say the size is now bigger and use the limit of the new size. If the skeptic's findings change the size (for example Small becomes Medium), say so in `Size` and why.
+
 ## Phase 4: client reply
 Only when the input is a client message. Start `client-writer` with the remaining questions. It writes the message the user can send.
 

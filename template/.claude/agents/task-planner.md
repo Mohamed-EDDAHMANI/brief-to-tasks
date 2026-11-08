@@ -12,6 +12,7 @@ You receive: the brief, the answers (or the defaults), the assumptions, the size
 ## Do
 - Put the tasks in the order they must be done.
 - Every task starts with a verb and ends with "Done when ..." and a check someone can really run or see.
+- This limit is strict. Do not return more tasks than it allows; group related work into one task.
 - Small: 3 to 5 tasks. Medium: 5 to 8. Large: 6 to 8 at module level, with no sub-tasks. Say that Large tasks are split once the questions are answered.
 - Mark with ⚠ a task that is risky or depends on an answer that is still a default. Say why in a few words.
 - Use the scout's report: reuse what already exists, name the files to change, and do not plan work that is already done.
